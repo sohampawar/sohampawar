@@ -28,8 +28,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Soham Pawar&hide=stars&show_icons=true&theme=blueberry&count_private=true&line_height=32">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Soham Pawar&theme=blueberry"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sohampawar&hide=stars&show_icons=true&theme=blueberry&count_private=true&line_height=32">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=sohampawar&theme=blueberry"/>
 
 </p>
 
