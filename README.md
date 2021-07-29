@@ -24,7 +24,7 @@
 **Languages and Tools:** 
 <p align="left">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> 
-<img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" width="50">
+![python](https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg)
 </p>
 
 ⭐️ From [sohampawar](https://github.com/sohampawar)
