@@ -37,6 +37,8 @@
   <img src="https://i.pinimg.com/originals/31/6c/eb/316ceb2b81248f951926e806ecb6e8a9.gif" width="50">
 </p>
 
+---
+
 <div align="left">
 
 <i>Let's Connect:</i><br>
