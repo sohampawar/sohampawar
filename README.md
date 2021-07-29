@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Soham Pawar </h1>
+<h1 align="center"> Hello, I'm Soham Pawar 👨‍💻 </h1>
 
 <h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
@@ -8,12 +8,15 @@
     <a href="https://www.linkedin.com/in/soham-pawar-6821ab140/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
 
+---
+
 **Github Stats:**
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mandarsatam&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohampawar&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=sohampawar&theme=dracula"/>
 
 </p>
+
 
