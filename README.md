@@ -8,12 +8,12 @@
 **Languages and Tools:** 
 
 <div align='left'>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50">&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50">&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50">&emsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50">&emsp;   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code Logo" width="50" height="50">&emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI Logo" width="50" height="50">&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50">&emsp;&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50">&emsp;&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50">&emsp;&emsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50">&emsp;&emsp;   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code Logo" width="50" height="50">&emsp;&emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI Logo" width="50" height="50">&emsp;&emsp;
 </div>
 
 ---
