@@ -1,4 +1,6 @@
- <h1>Hello, I'm Soham Pawar 👨‍💻</h1>
+ <h1 align="center">Hello, I'm Soham Pawar 👨‍💻</h1>
+ 
+ <h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
 
 ---
