@@ -1,9 +1,6 @@
- <h1 align="center">Hello, I'm Soham Pawar 👨‍💻</h1>
+ <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soham Pawar 👨‍💻</h1>
  
- <h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
-
-
----
+ ---
 
 **Languages and Tools:** 
 
