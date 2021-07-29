@@ -28,7 +28,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=sohampawar&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohampawar&hide=stars&show_icons=true&theme=blueberry&count_private=true&line_height=32">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=sohampawar&theme=blueberry"/>
 
 </p>
