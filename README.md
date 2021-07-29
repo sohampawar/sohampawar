@@ -12,7 +12,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50">&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50">&nbsp;   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code Logo" width="50" height="50">&nbsp;                         </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code Logo" width="50" height="50">&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI Logo" width="50" height="50">&nbsp;
+</div>
 
 ---
 
@@ -23,13 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sohampawar&hide=stars&show_icons=true&theme=blueberry&count_private=true&line_height=32">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=sohampawar&theme=blueberry"/>
 
-</p>
-
-
-**Languages and Tools:** 
-<p align="left">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  <img src="https://i.pinimg.com/originals/31/6c/eb/316ceb2b81248f951926e806ecb6e8a9.gif" width="50">
 </p>
 
 ---
