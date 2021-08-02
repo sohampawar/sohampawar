@@ -30,7 +30,7 @@
 
 <i>Let's Connect:</i><br>
 
-<a href="mailto:sohampawar161297@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="mailto:pawarsoham001@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/soham-pawar-6821ab140/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 </div>
